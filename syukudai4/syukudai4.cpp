@@ -10,6 +10,7 @@ void initrand()
 	srand((unsigned int)time(NULL));
 }
 
+
 class Player
 {
 public:
