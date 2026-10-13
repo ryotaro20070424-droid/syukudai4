@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="syukudai4/syukudai4.vcxproj" Id="6ef3b6e5-cb47-410b-b7ed-b7f3bf179f3e" />
+</Solution>
